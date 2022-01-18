@@ -1,5 +1,5 @@
 # DOM_Intro_Exercise
-## git:
+## git: https://robae2821.github.io/DOM-intro/
 
 Practice manipulating the DOM!
 
